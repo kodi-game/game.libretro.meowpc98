@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-meowpc98
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-meowpc98 (>= 0.86.0) | meowpc98 (>= 0.86.0)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-meowpc98
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: NEC - PC-98 (Neko Project II) core for kodi's retroplayer
+ NEC - PC-98 (Neko Project II) core for kodi's retroplayer
