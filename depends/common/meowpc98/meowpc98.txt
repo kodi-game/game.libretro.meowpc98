@@ -1,1 +1,1 @@
-meowpc98 https://github.com/libretro/libretro-meowPC98/archive/3a8cf48306b300b07c0919bcb901d6499cdcaf21.zip
+meowpc98 https://github.com/libretro/libretro-meowPC98/archive/cc25d911e2246a2377e02290a4a2fc344bb03bc2.zip
