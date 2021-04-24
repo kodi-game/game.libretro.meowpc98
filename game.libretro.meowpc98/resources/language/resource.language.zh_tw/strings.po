@@ -1,0 +1,89 @@
+# game.libretro.meowpc98 language file
+# Addon Name: game.libretro.meowpc98
+# Addon id: game.libretro.meowpc98
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.meowpc98\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-09-01 12:22i\n"
+"PO-Revision-Date: 2020-09-01 12:22i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_tw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Volume Beep"
+msgstr ""
+
+msgctxt "#30002"
+msgid "RAM Size (Restart)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Gui Joy0 PAS"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Gui Controller"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Sound Board (Restart)"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Floppy Seek Sound (Restart)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Volume Floppy Seek (Restart)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "CPU Base Clock (Restart)"
+msgstr ""
+
+msgctxt "#30009"
+msgid "CPU Clock Multiplier (Restart)"
+msgstr ""
+
+msgctxt "#30010"
+msgid "JastSound"
+msgstr ""
+
+msgctxt "#30011"
+msgid "PC Model (Restart)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Skipline Revisions"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Volume ADPCM"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Volume FM"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Volume PCM"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Volume RHYTHM"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Volume SSG"
+msgstr ""
