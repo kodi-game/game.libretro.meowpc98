@@ -21,69 +21,69 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Volume Beep"
-msgstr ""
-
-msgctxt "#30002"
-msgid "RAM Size (Restart)"
-msgstr ""
-
-msgctxt "#30003"
-msgid "Gui Joy0 PAS"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Gui Controller"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Sound Board (Restart)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "Floppy Seek Sound (Restart)"
-msgstr ""
-
-msgctxt "#30007"
-msgid "Volume Floppy Seek (Restart)"
-msgstr ""
-
-msgctxt "#30008"
-msgid "CPU Base Clock (Restart)"
-msgstr ""
-
-msgctxt "#30009"
-msgid "CPU Clock Multiplier (Restart)"
-msgstr ""
-
-msgctxt "#30010"
-msgid "JastSound"
-msgstr ""
-
-msgctxt "#30011"
 msgid "PC Model (Restart)"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30002"
+msgid "CPU Base Clock (Restart)"
+msgstr ""
+
+msgctxt "#30003"
+msgid "CPU Clock Multiplier (Restart)"
+msgstr ""
+
+msgctxt "#30004"
+msgid "RAM Size (Restart)"
+msgstr ""
+
+msgctxt "#30005"
 msgid "Skipline Revisions"
 msgstr ""
 
-msgctxt "#30013"
-msgid "Volume ADPCM"
+msgctxt "#30006"
+msgid "Sound Board (Restart)"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30007"
+msgid "JastSound"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Volume FM"
 msgstr ""
 
-msgctxt "#30015"
+msgctxt "#30009"
+msgid "Volume SSG"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Volume ADPCM"
+msgstr ""
+
+msgctxt "#30011"
 msgid "Volume PCM"
 msgstr ""
 
-msgctxt "#30016"
+msgctxt "#30012"
 msgid "Volume RHYTHM"
 msgstr ""
 
+msgctxt "#30013"
+msgid "Floppy Seek Sound (Restart)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Volume Floppy Seek (Restart)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Volume Beep"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Gui Controller"
+msgstr ""
+
 msgctxt "#30017"
-msgid "Volume SSG"
+msgid "Gui Joy0 PAS"
 msgstr ""
