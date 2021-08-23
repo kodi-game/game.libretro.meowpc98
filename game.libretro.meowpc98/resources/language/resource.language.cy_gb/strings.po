@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : (n==3) ? 3 :(n==6) ? 4 : 5;\n"
 
+msgctxt "Addon Summary"
+msgid "NEC - PC-98 (Neko Project II) 0.86+"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Neko Project II is an excellent PC-98 emulator.
+
+Supported files: .d98, .zip, .98d, .fdi, .fdd, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd, .hdi, .thd, .nhd, .hdd"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
