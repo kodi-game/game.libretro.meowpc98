@@ -14,14 +14,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Supported files: .d98, .zip, .98d, .fdi, .fdd, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd, .hdi, .thd, .nhd, .hdd</description>
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.meowpc98</source>
 		<summary lang="en_GB">NEC - PC-98 (Neko Project II) 0.86+</summary>
-		<description lang="en_GB">Neko Project II is an excellent PC-98 emulator.
-
-Supported files: .d98, .zip, .98d, .fdi, .fdd, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd, .hdi, .thd, .nhd, .hdd</description>
+		<description lang="en_GB">Neko Project II is an excellent PC-98 emulator.</description>
 	</extension>
 </addon>
