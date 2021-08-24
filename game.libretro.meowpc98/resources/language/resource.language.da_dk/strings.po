@@ -22,9 +22,7 @@ msgid "NEC - PC-98 (Neko Project II) 0.86+"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Neko Project II is an excellent PC-98 emulator.
-
-Supported files: .d98, .zip, .98d, .fdi, .fdd, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd, .hdi, .thd, .nhd, .hdd"
+msgid "Neko Project II is an excellent PC-98 emulator.Supported files: .d98, .zip, .98d, .fdi, .fdd, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd, .hdi, .thd, .nhd, .hdd"
 msgstr ""
 
 msgctxt "#30000"
