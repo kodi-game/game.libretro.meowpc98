@@ -15,7 +15,7 @@ MIT
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.meowpc98/resources/icon.png)
 
 ### Fanart
 

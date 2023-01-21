@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.meowpc98"
 		name="NEC - PC-98 (Neko Project II)"
-		version="0.86.0.13"
+		version="0.86.0.14"
 		provider-name="Neko Project II Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,9 @@
 		<license>MIT</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.meowpc98</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">NEC - PC-98 (Neko Project II) 0.86+</summary>
 		<description lang="da_DK">Neko Project II er en fremragende PC-98-emulator.[CR][CR]PC-98 er en række japanske 16-bit og 32-bit personlige computere fremstillet af NEC fra 1982 til 2000.</description>
 		<description lang="en_GB">Neko Project II is an excellent PC-98 emulator.[CR][CR]PC-98 is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000.</description>
