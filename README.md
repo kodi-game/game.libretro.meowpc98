@@ -15,7 +15,7 @@ MIT
 
 ### Icon
 
-![Icon](game.libretro.meowpc98/resources/icon.png)
+![NEC - PC-98 (Neko Project II) icon](game.libretro.meowpc98/resources/icon.png)
 
 ### Fanart
 
