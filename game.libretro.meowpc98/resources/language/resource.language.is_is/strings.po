@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC-98 (Neko Project II) 0.86+"
+msgid "NEC - PC-98 (Neko Project II)"
 msgstr ""
 
 msgctxt "Addon Description"
