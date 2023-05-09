@@ -21,6 +21,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
+		<summary lang="da_DK">NEC - PC-98 (Neko Project II)</summary>
 		<summary lang="en_GB">NEC - PC-98 (Neko Project II)</summary>
 		<summary lang="es_ES">NEC - PC-98 (Neko Project II)</summary>
 		<description lang="da_DK">Neko Project II er en fremragende PC-98-emulator.[CR][CR]PC-98 er en række japanske 16-bit og 32-bit personlige computere fremstillet af NEC fra 1982 til 2000.</description>
