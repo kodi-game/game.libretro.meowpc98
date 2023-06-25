@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.meowpc98"
 		name="NEC - PC-98 (Neko Project II)"
-		version="0.86.0.19"
+		version="0.86.0.20"
 		provider-name="Neko Project II Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
