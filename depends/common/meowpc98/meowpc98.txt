@@ -1,1 +1,1 @@
-meowpc98 https://github.com/libretro/libretro-meowPC98/archive/bee2e243b0c68f787d0d360c2d4c289e581620ef.tar.gz
+meowpc98 https://github.com/libretro/libretro-meowPC98/archive/3c72b207ec412374cd42e98c6dfaa7b3a3d59053.tar.gz
