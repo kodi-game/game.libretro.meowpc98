@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="np2_model" values="VX|EPSON|VM" default="VX"/>
 		<setting label="30002" type="select" id="np2_clk_base" values="2.4576 MHz|1.9968 MHz" default="2.4576 MHz"/>
 		<setting label="30003" type="select" id="np2_clk_mult" values="4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|1|2|3" default="4"/>
