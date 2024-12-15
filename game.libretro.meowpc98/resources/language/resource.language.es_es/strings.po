@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Neko Project II is an excellent PC-98 emulator.[CR][CR]PC-98 is a lineup of Japanese 16-bit and 32-bit personal computers manufactured by NEC from 1982 to 2000."
 msgstr "Neko Project II es un excelente emulador de PC-98.[CR][CR]PC-98 es una línea japonesa de ordenadores personales de 16 y 32 bits fabricados por NEC entre 1982 y 2000."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "PC Model (Restart)"
 msgstr "Modelo de PC (Reiniciar)"
@@ -96,3 +92,7 @@ msgstr "Controlador Gui"
 msgctxt "#30017"
 msgid "Gui Joy0 PAS"
 msgstr "Gui Joy0 PAS"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
