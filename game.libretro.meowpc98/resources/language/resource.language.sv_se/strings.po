@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.meowpc98\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 12:22i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-meowpc98/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "NEC - PC-98 (Neko Project II)"
@@ -31,67 +31,72 @@ msgstr "PC-modell (omstart)"
 
 msgctxt "#30002"
 msgid "CPU Base Clock (Restart)"
-msgstr ""
+msgstr "CPU-basklocka (omstart)"
 
 msgctxt "#30003"
 msgid "CPU Clock Multiplier (Restart)"
-msgstr ""
+msgstr "CPU-klockmultiplikator (omstart)"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "RAM Size (Restart)"
-msgstr ""
+msgstr "RAM-storlek (omstart)"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Skipline Revisions"
-msgstr ""
+msgstr "Revisioner av skidlinjen"
 
 msgctxt "#30006"
 msgid "Sound Board (Restart)"
-msgstr ""
+msgstr "Ljudkort (omstart)"
 
 msgctxt "#30007"
 msgid "JastSound"
-msgstr ""
+msgstr "JastSound"
 
 msgctxt "#30008"
 msgid "Volume FM"
-msgstr ""
+msgstr "Volym FM"
 
 msgctxt "#30009"
 msgid "Volume SSG"
-msgstr ""
+msgstr "Volym SSG"
 
 msgctxt "#30010"
 msgid "Volume ADPCM"
-msgstr ""
+msgstr "Volym ADPCM"
 
 msgctxt "#30011"
 msgid "Volume PCM"
-msgstr ""
+msgstr "Volym PCM"
 
 msgctxt "#30012"
 msgid "Volume RHYTHM"
-msgstr ""
+msgstr "Volym RHYTHM"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Floppy Seek Sound (Restart)"
-msgstr ""
+msgstr "Ljud vid diskettsökning (omstart)"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "Volume Floppy Seek (Restart)"
-msgstr ""
+msgstr "Volymdiskett Sök (omstart)"
 
 msgctxt "#30015"
 msgid "Volume Beep"
-msgstr ""
+msgstr "Volym pip"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Gui Controller"
-msgstr ""
+msgstr "Gui-kontroll"
 
 msgctxt "#30017"
 msgid "Gui Joy0 PAS"
-msgstr ""
+msgstr "Gui Joy0 PAS"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
