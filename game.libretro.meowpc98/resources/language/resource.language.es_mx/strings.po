@@ -93,6 +93,54 @@ msgctxt "#30017"
 msgid "Gui Joy0 PAS"
 msgstr ""
 
+msgctxt "#30018"
+msgid "Full 255 lines"
+msgstr ""
+
+msgctxt "#30019"
+msgid "PC9801-86"
+msgstr ""
+
+msgctxt "#30020"
+msgid "PC9801-26K + 86"
+msgstr ""
+
+msgctxt "#30021"
+msgid "PC9801-86 + Chibi-Oto"
+msgstr ""
+
+msgctxt "#30022"
+msgid "PC9801-118"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Speak Board"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Spark Board"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Sound Orchestra"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Sound Orchestra-V"
+msgstr ""
+
+msgctxt "#30027"
+msgid "AMD-98"
+msgstr ""
+
+msgctxt "#30028"
+msgid "PC9801-14"
+msgstr ""
+
+msgctxt "#30029"
+msgid "PC9801-26K"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
