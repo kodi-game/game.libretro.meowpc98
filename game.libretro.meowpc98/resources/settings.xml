@@ -101,7 +101,7 @@
 					<default>Full 255 lines</default>
 					<constraints>
 						<options>
-							<option>Full 255 lines</option>
+							<option label="30018">Full 255 lines</option>
 							<option label="16041">ON</option>
 							<option label="351">OFF</option>
 						</options>
@@ -113,18 +113,18 @@
 					<default>PC9801-86</default>
 					<constraints>
 						<options>
-							<option>PC9801-86</option>
-							<option>PC9801-26K + 86</option>
-							<option>PC9801-86 + Chibi-Oto</option>
-							<option>PC9801-118</option>
-							<option>Speak Board</option>
-							<option>Spark Board</option>
-							<option>Sound Orchestra</option>
-							<option>Sound Orchestra-V</option>
-							<option>AMD-98</option>
+							<option label="30019">PC9801-86</option>
+							<option label="30020">PC9801-26K + 86</option>
+							<option label="30021">PC9801-86 + Chibi-Oto</option>
+							<option label="30022">PC9801-118</option>
+							<option label="30023">Speak Board</option>
+							<option label="30024">Spark Board</option>
+							<option label="30025">Sound Orchestra</option>
+							<option label="30026">Sound Orchestra-V</option>
+							<option label="30027">AMD-98</option>
 							<option label="231">None</option>
-							<option>PC9801-14</option>
-							<option>PC9801-26K</option>
+							<option label="30028">PC9801-14</option>
+							<option label="30029">PC9801-26K</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
