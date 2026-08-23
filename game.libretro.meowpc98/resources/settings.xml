@@ -102,8 +102,8 @@
 					<constraints>
 						<options>
 							<option>Full 255 lines</option>
-							<option>ON</option>
-							<option>OFF</option>
+							<option label="16041">ON</option>
+							<option label="351">OFF</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -122,7 +122,7 @@
 							<option>Sound Orchestra</option>
 							<option>Sound Orchestra-V</option>
 							<option>AMD-98</option>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>PC9801-14</option>
 							<option>PC9801-26K</option>
 						</options>
@@ -134,8 +134,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -355,8 +355,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
