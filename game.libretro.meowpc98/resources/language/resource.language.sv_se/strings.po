@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.meowpc98\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 12:22i\n"
-"PO-Revision-Date: 2025-04-22 22:51+0000\n"
+"PO-Revision-Date: 2026-11-02 20:47+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-meowpc98/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "NEC - PC-98 (Neko Project II)"
@@ -41,10 +41,9 @@ msgctxt "#30004"
 msgid "RAM Size (Restart)"
 msgstr "RAM-storlek (omstart)"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Skipline Revisions"
-msgstr "Revisioner av skidlinjen"
+msgstr "Ändringar av skanningslinjer"
 
 msgctxt "#30006"
 msgid "Sound Board (Restart)"
@@ -74,24 +73,21 @@ msgctxt "#30012"
 msgid "Volume RHYTHM"
 msgstr "Volym RHYTHM"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Floppy Seek Sound (Restart)"
 msgstr "Ljud vid diskettsökning (omstart)"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "Volume Floppy Seek (Restart)"
-msgstr "Volymdiskett Sök (omstart)"
+msgstr "Volym för diskettsökning (omstart)"
 
 msgctxt "#30015"
 msgid "Volume Beep"
 msgstr "Volym pip"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Gui Controller"
-msgstr "Gui-kontroll"
+msgstr "GUI-styrenhet"
 
 msgctxt "#30017"
 msgid "Gui Joy0 PAS"
@@ -99,51 +95,51 @@ msgstr "Gui Joy0 PAS"
 
 msgctxt "#30018"
 msgid "Full 255 lines"
-msgstr ""
+msgstr "Alla 255 rader"
 
 msgctxt "#30019"
 msgid "PC9801-86"
-msgstr ""
+msgstr "PC9801-86"
 
 msgctxt "#30020"
 msgid "PC9801-26K + 86"
-msgstr ""
+msgstr "PC9801-26K + 86"
 
 msgctxt "#30021"
 msgid "PC9801-86 + Chibi-Oto"
-msgstr ""
+msgstr "PC9801-86 + Chibi-Oto"
 
 msgctxt "#30022"
 msgid "PC9801-118"
-msgstr ""
+msgstr "PC9801-118"
 
 msgctxt "#30023"
 msgid "Speak Board"
-msgstr ""
+msgstr "Speak Board"
 
 msgctxt "#30024"
 msgid "Spark Board"
-msgstr ""
+msgstr "Spark Board"
 
 msgctxt "#30025"
 msgid "Sound Orchestra"
-msgstr ""
+msgstr "Sound Orchestra"
 
 msgctxt "#30026"
 msgid "Sound Orchestra-V"
-msgstr ""
+msgstr "Sound Orchestra-V"
 
 msgctxt "#30027"
 msgid "AMD-98"
-msgstr ""
+msgstr "AMD-98"
 
 msgctxt "#30028"
 msgid "PC9801-14"
-msgstr ""
+msgstr "PC9801-14"
 
 msgctxt "#30029"
 msgid "PC9801-26K"
-msgstr ""
+msgstr "PC9801-26K"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
